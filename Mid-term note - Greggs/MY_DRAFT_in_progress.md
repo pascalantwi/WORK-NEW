@@ -8,7 +8,7 @@ Greggs is a UK-based company that sells food, and it has around 2,700 branches (
 
 ## 1. Value opportunities
 
-**Economic:** People have less money, so they buy cheaper things. This means Greggs cannot simply raise its prices to cover higher staff costs (HM Treasury, 2024), because it would lose customers.
+**Economic:** People have less money, so they buy cheaper things. This means Greggs cannot simply raise its prices to cover higher staff costs (HM Treasury, 2024), because it would lose customers. Near my university, I could also buy cheap food at McDonald's or Subway. People might choose them because of their sandwiches. I still choose Greggs because it is reliable. This shows that customers can easily go somewhere else, so Greggs has to keep its prices low (Porter, 2008).
 
 **Social:** When people order through the Greggs app, Greggs keeps more of the money. When they order through delivery apps like Uber Eats, part of the money goes to the app, so Greggs loses out (Greggs plc, 2026).
 
@@ -19,6 +19,8 @@ Greggs is a UK-based company that sells food, and it has around 2,700 branches (
 Greggs plc (2026) *Preliminary results for the 52 weeks ended 27 December 2025*. Newcastle upon Tyne: Greggs plc. Available at: https://assets.greggs.com/f/162306/x/e616871d6c/260303-greggs-2025-preliminary-results-final.pdf (Accessed: 30 October 2026).
 
 HM Treasury (2024) *Autumn Budget 2024* (HC 295). London: HM Treasury. Available at: https://www.gov.uk/government/publications/autumn-budget-2024 (Accessed: 30 October 2026).
+
+Porter, M.E. (2008) 'The five competitive forces that shape strategy', *Harvard Business Review*, 86(1), pp. 78–93.
 
 ## 2. How the business model will change
 
