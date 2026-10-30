@@ -56,7 +56,7 @@ When I searched for Greggs on Google on 30 October 2026, the "Order online" page
 
 Using the information from everyday orders on the app, Greggs can predict what to bake (P2), which will also help it plan how many staff it needs.
 
-With this plan, customers would find their favourite items sold out less often, and they could skip the queue by ordering ahead in the app (new value creation, P1). This matters to me: once at lunchtime, the item I wanted was sold out, so I left and went to Subway, and Greggs lost that sale. With the new plan, Greggs would throw away less food and would not pay Uber Eats a cut on orders made in its own app (new value capture, P3). This links value creation to value capture, as a strategy should (Collis, 2021).
+With this plan, customers would find their favourite items sold out less often, and they could skip the queue by ordering ahead in the app (new value creation, P1). This matters to me: once at lunchtime, the item I wanted was sold out, so I left and went to Subway, and Greggs lost that sale. However, when I asked a friend whether they had ever found their food sold out at Greggs or seen lots left at closing, they said no. This suggests the problem may be less visible to customers than to Greggs, which sees the cost of waste in its own figures. With the new plan, Greggs would throw away less food and would not pay Uber Eats a cut on orders made in its own app (new value capture, P3). This links value creation to value capture, as a strategy should (Collis, 2021).
 
 ## 3. Competitive advantage
 
