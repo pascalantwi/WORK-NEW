@@ -24,4 +24,24 @@ Porter, M.E. (2008) 'The five competitive forces that shape strategy', *Harvard 
 
 ## 2. How the business model will change
 
-(next)
+Greggs gives customers cheap food in shops that are close by and reliable (value creation). However, each shop does not bake based on customer demand; it relies on its own guesses, which leads to leftover food (value configuration). Greggs makes money by selling lots of cheap items to lots of people (value capture) (Greggs plc, 2026).
+
+[MY OWN EVIDENCE - still to do: app store rating, one app feature, where delivery sends you + screenshots = Figure 1]
+
+Using the information from everyday orders on the app, Greggs can predict what to bake, which will also help it plan how many staff it needs. This means less leftover food, which could instead be sold for a profit. If more people ordered through the Greggs app instead of Uber Eats, Greggs would keep more of the money.
+
+## 3. Competitive advantage
+
+(to do)
+
+## 4. Challenges
+
+(to do)
+
+## 5. Overcoming the challenges
+
+(to do)
+
+## Conclusion
+
+(to do)
