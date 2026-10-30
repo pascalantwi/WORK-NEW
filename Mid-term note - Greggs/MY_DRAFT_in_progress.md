@@ -16,6 +16,8 @@ Greggs is a UK-based company that sells food, and it has around 2,700 branches (
 
 ## Reference list (so far)
 
+Curchod, C. (2026a) 'The challenges ahead: potential obstacles to transformation and how to overcome them' [Lecture slides], *The Strategy of Digital Transformation*. University of Edinburgh Business School. Available at: Learn (Accessed: 30 October 2026).
+
 Greggs plc (2026) *Preliminary results for the 52 weeks ended 27 December 2025*. Newcastle upon Tyne: Greggs plc. Available at: https://assets.greggs.com/f/162306/x/e616871d6c/260303-greggs-2025-preliminary-results-final.pdf (Accessed: 30 October 2026).
 
 HM Treasury (2024) *Autumn Budget 2024* (HC 295). London: HM Treasury. Available at: https://www.gov.uk/government/publications/autumn-budget-2024 (Accessed: 30 October 2026).
@@ -46,7 +48,7 @@ Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Sub
 
 ## 4. Challenges
 
-(to do)
+**Staff:** shop managers who have always decided how much to bake may resist the new system. Some may be confused because nobody has trained them to use it, and others may be scared that a computer will replace them. The lecture calls this ground-level resistance, caused by a lack of understanding or by fear (Curchod, 2026a).
 
 ## 5. Overcoming the challenges
 
