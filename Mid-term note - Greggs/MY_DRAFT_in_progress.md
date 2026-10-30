@@ -12,7 +12,7 @@ Greggs is a UK-based company that sells food, and it has around 2,700 branches (
 
 **Social:** When people order through the Greggs app, Greggs keeps more of the money. When they order through delivery apps like Uber Eats, part of the money goes to the app, so Greggs loses out (Greggs plc, 2026). Evening is also Greggs' fastest-growing time of day, at 9.4% of sales in 2025, up from 9.0% the year before (Greggs plc, 2026). Students studying late, like those at my university, and people finishing work or late shifts want cheap food in the evening. This means shops need to bake different food at night, such as pizza instead of breakfast items, which is hard to get right by guessing.
 
-**Environmental:** Leftover food makes Greggs lose money, because that food could have been sold for a profit. Instead, it goes bad or is given away.
+**Environmental:** Leftover food makes Greggs lose money, because that food could have been sold for a profit. Instead, it goes bad or is given away. Greggs already sells some leftover food cheaply at the end of the day through the Too Good To Go app, which has saved more than 5 million meals since 2021 (Grocery Gazette, 2025). This helps, but Greggs earns much less than it would by selling the food at full price. It would be better not to bake too much in the first place.
 
 ## Reference list (so far)
 
@@ -23,6 +23,8 @@ Curchod, C. (2026b) 'Organizing for digital transformation: the agile organizati
 Curchod, C. (2026c) 'Beware national cultures: an exploration of the East vs. West digital ecosystems' [Lecture slides], *The Strategy of Digital Transformation*. University of Edinburgh Business School. Available at: Learn (Accessed: 30 October 2026).
 
 Greggs plc (2026) *Preliminary results for the 52 weeks ended 27 December 2025*. Newcastle upon Tyne: Greggs plc. Available at: https://assets.greggs.com/f/162306/x/e616871d6c/260303-greggs-2025-preliminary-results-final.pdf (Accessed: 30 October 2026).
+
+Grocery Gazette (2025) 'Greggs saves 5m meals from waste with Too Good To Go', 30 April. Available at: https://www.grocerygazette.co.uk/2025/04/30/greggs-too-good-to-go/ (Accessed: 30 October 2026).
 
 HM Treasury (2024) *Autumn Budget 2024* (HC 295). London: HM Treasury. Available at: https://www.gov.uk/government/publications/autumn-budget-2024 (Accessed: 30 October 2026).
 
