@@ -22,6 +22,8 @@ HM Treasury (2024) *Autumn Budget 2024* (HC 295). London: HM Treasury. Available
 
 Porter, M.E. (2008) 'The five competitive forces that shape strategy', *Harvard Business Review*, 86(1), pp. 78–93.
 
+Whittington, R., Regnér, P., Angwin, D., Johnson, G. and Scholes, K. (2024) *Fundamentals of strategy*. 6th edn. Harlow: Pearson.
+
 ## 2. How the business model will change
 
 Greggs gives customers cheap food in shops that are close by and reliable (value creation). However, each shop does not bake based on customer demand; it relies on its own guesses, which leads to leftover food (value configuration). Greggs makes money by selling lots of cheap items to lots of people (value capture) (Greggs plc, 2026).
@@ -38,7 +40,7 @@ With this plan, customers would find their favourite items sold out less often, 
 
 ## 3. Competitive advantage
 
-(to do)
+Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Subway, but it also has something special, like its famous sausage roll (Whittington et al., 2024). My plan makes both sides stronger. Less food thrown away and not paying Uber Eats a cut save Greggs money, which helps it stay cheap. Fewer sold-out items and skipping the queue by ordering ahead make customers happier, which makes Greggs more special.
 
 ## 4. Challenges
 
