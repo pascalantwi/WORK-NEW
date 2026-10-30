@@ -10,7 +10,7 @@ Greggs is a UK-based company that sells food, and it has around 2,700 branches (
 
 **Economic:** People have less money, so they buy cheaper things. This means Greggs cannot simply raise its prices to cover higher staff costs (HM Treasury, 2024), because it would lose customers. Near my university, I could also buy cheap food at McDonald's or Subway. People might choose them because of their sandwiches. I still choose Greggs because it is reliable. This shows that customers can easily go somewhere else, so Greggs has to keep its prices low (Porter, 2008).
 
-**Social:** When people order through the Greggs app, Greggs keeps more of the money. When they order through delivery apps like Uber Eats, part of the money goes to the app, so Greggs loses out (Greggs plc, 2026).
+**Social:** When people order through the Greggs app, Greggs keeps more of the money. When they order through delivery apps like Uber Eats, part of the money goes to the app, so Greggs loses out (Greggs plc, 2026). Evening is also Greggs' fastest-growing time of day, at 9.4% of sales in 2025, up from 9.0% the year before (Greggs plc, 2026). Students studying late, like those at my university, and people finishing work or late shifts want cheap food in the evening. This means shops need to bake different food at night, such as pizza instead of breakfast items, which is hard to get right by guessing.
 
 **Environmental:** Leftover food makes Greggs lose money, because that food could have been sold for a profit. Instead, it goes bad or is given away.
 
