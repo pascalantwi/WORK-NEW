@@ -46,7 +46,7 @@ Whittington, R., Regnér, P., Angwin, D., Johnson, G. and Scholes, K. (2024) *Fu
 
 ## 2. How the business model will change
 
-Greggs gives customers cheap food in shops that are close by and reliable (value creation, C1 in Figure 2). However, each shop still guesses how much to bake (value configuration, C2). Greggs makes money by selling lots of cheap items to lots of people (value capture, C3) (Greggs plc, 2026).
+Greggs gives customers cheap food in shops that are close by and reliable (value creation, C1 in Figure 2). However, each shop still guesses how much to bake (value configuration, C2). Greggs makes money by selling lots of cheap items to lots of people (value capture, C3; Greggs plc, 2026).
 
 When I searched for Greggs on Google on 30 October 2026, the "Order online" page offered delivery through Uber Eats, Just Eat and greggs.com, and Uber Eats showed a service fee of 5–15% (Figure 1). When I chose pickup, only Uber Eats and Just Eat appeared; Greggs' own app was not offered. This means that even customers who collect their food themselves may order through these apps.
 
@@ -66,7 +66,7 @@ Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Sub
 
 About 70% of digital transformations fail to meet their goals (McKinsey, 2025, cited in Curchod, 2026d).
 
-**Staff:** shop managers may resist the new system. Some may be confused because nobody has trained them to use it, and others may be scared that a computer will replace them. The lecture calls this ground-level resistance, caused by a lack of understanding or by fear (Curchod, 2026a).
+**Staff:** Shop managers may resist the new system. Some may be confused because nobody has trained them to use it, and others may be scared that a computer will replace them. The lecture calls this ground-level resistance, caused by a lack of understanding or by fear (Curchod, 2026a).
 
 **Leaders:** Greggs' leaders may see the app as just a marketing tool for discounts, not as something that should change how the company bakes. The lecture calls this bounded rationality (Curchod, 2026a). Money is also tight: Greggs spent £287.5 million on investment in 2025 while its profit fell (Greggs plc, 2026), so leaders may prefer to wait.
 
@@ -78,9 +78,9 @@ About 70% of digital transformations fail to meet their goals (McKinsey, 2025, c
 
 **Fixing the leaders' challenge:** Greggs should set up a small separate team for this project, so the rest of the business keeps running normally. This is called ambidexterity (O'Reilly and Tushman, 2004). The team should first test the system in about 50 shops. If it works, leaders will have proof before spending more. Leaders who are worried about money are more likely to trust real results, such as less waste and more sales, than a promise. Building this habit of testing new ideas creates dynamic capabilities (Teece, 2007).
 
-**The agile model:** Today, Greggs is at level 2 of the agile maturity model, 'competitive and market orientation', because it focuses on beating rivals on price. It should aim for level 3, 'customer orientation', using app data to build around what customers want, with agile working only for the app project (Curchod, 2026b). *Processes and routines:* the small test team tries the system in a few shops, learns from it and improves it. *Skills and employee development:* shop managers are trained, and Greggs hires data and AI experts. *Communication and transparency:* because most shop staff do not sit at a computer, Greggs shares the test results through a staff app on their phones, as IKEA did.
+**The agile model:** Today, Greggs is at level 2 of the agile maturity model, 'competitive and market orientation', because it focuses on beating rivals on price. It should aim for level 3, 'customer orientation', using app data to build around what customers want, with agile working only for the app project (Curchod, 2026b). *Processes and routines:* The small test team tries the system in a few shops, learns from it and improves it. *Skills and employee development:* Shop managers are trained, and Greggs hires data and AI experts. *Communication and transparency:* Because most shop staff do not sit at a computer, Greggs shares the test results through a staff app on their phones, as IKEA did.
 
-**National culture:** the UK has its own digital ecosystem, and customers already use Uber Eats and Just Eat (Curchod, 2026c). Greggs should keep these partners but give people a reason, such as app-only deals and rewards, to order more through its own app.
+**National culture:** The UK has its own digital ecosystem, and customers already use Uber Eats and Just Eat (Curchod, 2026c). Greggs should keep these partners but give people a reason, such as app-only deals and rewards, to order more through its own app.
 
 ## Conclusion
 
