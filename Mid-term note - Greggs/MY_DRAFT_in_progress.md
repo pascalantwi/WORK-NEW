@@ -20,6 +20,8 @@ Greggs plc (2026) *Preliminary results for the 52 weeks ended 27 December 2025*.
 
 HM Treasury (2024) *Autumn Budget 2024* (HC 295). London: HM Treasury. Available at: https://www.gov.uk/government/publications/autumn-budget-2024 (Accessed: 30 October 2026).
 
+Porter, M.E. (1996) 'What is strategy?', *Harvard Business Review*, 74(6), pp. 61–78.
+
 Porter, M.E. (2008) 'The five competitive forces that shape strategy', *Harvard Business Review*, 86(1), pp. 78–93.
 
 Whittington, R., Regnér, P., Angwin, D., Johnson, G. and Scholes, K. (2024) *Fundamentals of strategy*. 6th edn. Harlow: Pearson.
@@ -40,7 +42,7 @@ With this plan, customers would find their favourite items sold out less often, 
 
 ## 3. Competitive advantage
 
-Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Subway, but it also has something special, like its famous sausage roll (Whittington et al., 2024). My plan makes both sides stronger. Less food thrown away and not paying Uber Eats a cut save Greggs money, which helps it stay cheap. Fewer sold-out items and skipping the queue by ordering ahead make customers happier, which makes Greggs more special.
+Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Subway, but it also has something special, like its famous sausage roll (Whittington et al., 2024). My plan makes both sides stronger. Less food thrown away and not paying Uber Eats a cut save Greggs money, which helps it stay cheap. Fewer sold-out items and skipping the queue by ordering ahead make customers happier, which makes Greggs more special. Rivals such as Tesco could also build an app, so the app alone is not special. What they cannot easily copy is that Greggs has its own bakeries and lorries, so it can use app data to change what is baked and delivered to each shop (Porter, 1996).
 
 ## 4. Challenges
 
