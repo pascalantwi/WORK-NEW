@@ -76,4 +76,4 @@ Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Sub
 
 ## Conclusion
 
-(to do)
+Greggs should use the information from app orders to decide what each shop bakes. This would mean less food wasted, and Greggs would keep more of its money instead of paying part of it to Uber Eats. To make the change work, Greggs should test it first in a few shops, with staff trained and involved, before using it across all of its shops.
