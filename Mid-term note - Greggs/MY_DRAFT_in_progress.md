@@ -60,7 +60,7 @@ With this plan, customers would find their favourite items sold out less often, 
 
 ## 3. Competitive advantage
 
-Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Subway, but it also has something special, like its famous sausage roll (Whittington et al., 2024). Less food thrown away and not paying Uber Eats a cut save Greggs money, which helps it stay cheap. Fewer sold-out items and skipping the queue by ordering ahead make customers happier, which makes Greggs more special. Rivals such as Tesco could also build an app, so the app alone is not special. What they cannot easily copy is that Greggs has its own bakeries and lorries, so it can use app data to change what is baked and delivered to each shop (Porter, 1996).
+Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Subway, but it also has something special, like its famous sausage roll (Whittington et al., 2024). The danger is that Greggs could end up 'stuck in the middle', not the cheapest and not the most special, and lose customers to both sides (Whittington et al., 2024). My plan helps it avoid this. Less food thrown away and not paying Uber Eats a cut save Greggs money, which helps it stay cheap. Fewer sold-out items and skipping the queue by ordering ahead make customers happier, which makes Greggs more special. Rivals such as Tesco could also build an app, so the app alone is not special. What they cannot easily copy is that Greggs has its own bakeries and lorries, so it can use app data to change what is baked and delivered to each shop (Porter, 1996).
 
 ## 4. Challenges
 
