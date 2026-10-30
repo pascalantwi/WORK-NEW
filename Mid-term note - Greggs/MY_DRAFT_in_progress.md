@@ -4,15 +4,15 @@ Written from my own answers; Claude fixed spelling and grammar only.
 
 ## Introduction
 
-Greggs is a UK-based company that sells food, and it has around 2,700 branches (Greggs plc, 2026). Its profit went down by about 4% (Greggs plc, 2026), and the cost of hiring staff also went up (HM Treasury, 2024). The shops do not bake based on customer demand; they rely on their own guesses, which leads to leftover food. Using the information from everyday orders on the app, Greggs can predict what to bake, which will also help it plan how many staff it needs. I chose Greggs because I buy from it myself: there is a shop close to my university, and I find it reliable.
+Greggs is a UK-based company that sells food, and it has around 2,700 branches (Greggs plc, 2026). Its profit went down by about 4% (Greggs plc, 2026), and the cost of hiring staff also went up (HM Treasury, 2024). The shops do not bake based on customer demand; they rely on their own guesses, which leads to leftover food. Using the information from everyday orders on the app, Greggs can predict what to bake. I chose Greggs because I buy from it myself: there is a shop close to my university, and I find it reliable.
 
 ## 1. Value opportunities
 
 **Economic:** People have less money, so they buy cheaper things. This means Greggs cannot simply raise its prices to cover higher staff costs (HM Treasury, 2024), because it would lose customers. Near my university, I could also buy cheap food at McDonald's or Subway. This shows that customers can easily go somewhere else, so Greggs has to keep its prices low (Porter, 2008).
 
-**Social:** When people order through the Greggs app, Greggs keeps more of the money. When they order through delivery apps like Uber Eats, part of the money goes to the app, so Greggs loses out (Greggs plc, 2026). Greggs cannot simply leave these apps, because many customers open Uber Eats first and choose from many restaurants, so Greggs needs to be there or it loses those customers. This gives the delivery apps bargaining power over Greggs (Porter, 2008). Evening is also Greggs' fastest-growing time of day, at 9.4% of sales in 2025 (Greggs plc, 2026). Students studying late, like those at my university, and people finishing work or late shifts want cheap food in the evening. This means shops need to bake different food at night, such as pizza instead of breakfast items, which is hard to get right by guessing.
+**Social:** When people order through the Greggs app, Greggs keeps more of the money. When they order through delivery apps like Uber Eats, part of the money goes to the app, so Greggs loses out (Greggs plc, 2026). Greggs cannot simply leave these apps, because many customers open Uber Eats first and choose from many restaurants, so Greggs needs to be there or it loses those customers. This gives the delivery apps bargaining power over Greggs (Porter, 2008). Evening is also Greggs' fastest-growing time of day, at 9.4% of sales in 2025 (Greggs plc, 2026). Students studying late and people finishing work or late shifts want cheap food in the evening. This means shops need to bake different food at night, such as pizza instead of breakfast items, which is hard to get right by guessing.
 
-**Environmental:** Leftover food makes Greggs lose money, because that food could have been sold for a profit. Greggs already sells some leftover food cheaply at the end of the day through the Too Good To Go app (Grocery Gazette, 2025). This helps, but Greggs earns much less than it would by selling the food at full price. It would be better not to bake too much in the first place.
+**Environmental:** Leftover food makes Greggs lose money, because that food could have been sold for a profit. Greggs already sells some leftover food cheaply through the Too Good To Go app (Grocery Gazette, 2025). This helps, but Greggs earns much less than it would by selling the food at full price. It would be better not to bake too much in the first place.
 
 ## Reference list (so far)
 
@@ -46,9 +46,9 @@ Whittington, R., Regnér, P., Angwin, D., Johnson, G. and Scholes, K. (2024) *Fu
 
 ## 2. How the business model will change
 
-Greggs gives customers cheap food in shops that are close by and reliable (value creation, C1 in Figure 2). However, each shop does not bake based on customer demand; it relies on its own guesses, which leads to leftover food (value configuration, C2). Greggs makes money by selling lots of cheap items to lots of people (value capture, C3) (Greggs plc, 2026).
+Greggs gives customers cheap food in shops that are close by and reliable (value creation, C1 in Figure 2). However, each shop still guesses how much to bake (value configuration, C2). Greggs makes money by selling lots of cheap items to lots of people (value capture, C3) (Greggs plc, 2026).
 
-When I searched for Greggs on Google on 30 October 2026, the "Order online" page offered delivery through Uber Eats, Just Eat and greggs.com, and Uber Eats showed a service fee of 5–15% (Figure 1). When I chose pickup, only Uber Eats and Just Eat appeared; Greggs' own app was not offered. This means that even customers who collect their food themselves may order through these apps, so part of the money goes to them and Greggs loses out.
+When I searched for Greggs on Google on 30 October 2026, the "Order online" page offered delivery through Uber Eats, Just Eat and greggs.com, and Uber Eats showed a service fee of 5–15% (Figure 1). When I chose pickup, only Uber Eats and Just Eat appeared; Greggs' own app was not offered. This means that even customers who collect their food themselves may order through these apps.
 
 ![Figure 1a: delivery options](Figure1a_delivery_options.png) ![Figure 1b: pickup options](Figure1b_pickup_options.png)
 
@@ -56,7 +56,7 @@ When I searched for Greggs on Google on 30 October 2026, the "Order online" page
 
 Using the information from everyday orders on the app, Greggs can predict what to bake (P2), which will also help it plan how many staff it needs.
 
-With this plan, customers would find their favourite items sold out less often, and they could skip the queue by ordering ahead in the app (new value creation, P1). This matters to me: once at lunchtime, the item I wanted was sold out, so I left and went to Subway, and Greggs lost that sale. With the new plan, Greggs would throw away less food and would not pay Uber Eats a cut on orders made in its own app (new value capture, P3). This links value creation to value capture, as a strategy should (Collis, 2021). Figure 2 compares the current business model with the new one.
+With this plan, customers would find their favourite items sold out less often, and they could skip the queue by ordering ahead in the app (new value creation, P1). This matters to me: once at lunchtime, the item I wanted was sold out, so I left and went to Subway, and Greggs lost that sale. With the new plan, Greggs would throw away less food and would not pay Uber Eats a cut on orders made in its own app (new value capture, P3). This links value creation to value capture, as a strategy should (Collis, 2021).
 
 ## 3. Competitive advantage
 
@@ -66,7 +66,7 @@ Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Sub
 
 About 70% of digital transformations fail to meet their goals (McKinsey, 2025, cited in Curchod, 2026d).
 
-**Staff:** shop managers who have always decided how much to bake may resist the new system. Some may be confused because nobody has trained them to use it, and others may be scared that a computer will replace them. The lecture calls this ground-level resistance, caused by a lack of understanding or by fear (Curchod, 2026a).
+**Staff:** shop managers may resist the new system. Some may be confused because nobody has trained them to use it, and others may be scared that a computer will replace them. The lecture calls this ground-level resistance, caused by a lack of understanding or by fear (Curchod, 2026a).
 
 **Leaders:** Greggs' leaders may see the app as just a marketing tool for discounts, not as something that should change how the company bakes. The lecture calls this bounded rationality (Curchod, 2026a). Money is also tight: Greggs spent £287.5 million on investment in 2025 while its profit fell (Greggs plc, 2026), so leaders may prefer to wait.
 
@@ -76,11 +76,11 @@ About 70% of digital transformations fail to meet their goals (McKinsey, 2025, c
 
 **Fixing staff resistance:** Greggs should train shop managers to use the new system, so they are not confused. The computer should only suggest how much to bake, while the manager still makes the final decision, so staff are not scared of being replaced. This also covers a weakness in my own plan: the AI forecast may get unusual days wrong, such as a sudden storm or a football match, so shops could still run out of food. Because the manager makes the final decision, they can change the bake on those days.
 
-**Fixing the leaders' challenge:** Greggs should set up a small separate team for this project, so the rest of the business keeps running normally. This is called ambidexterity (O'Reilly and Tushman, 2004). The team should first test the system in about 50 shops in one city. This costs little, and if it works, leaders will have proof before spending more. Leaders who are worried about money are more likely to trust real results, such as less waste and more sales, than a promise. Building this habit of testing new ideas creates dynamic capabilities (Teece, 2007).
+**Fixing the leaders' challenge:** Greggs should set up a small separate team for this project, so the rest of the business keeps running normally. This is called ambidexterity (O'Reilly and Tushman, 2004). The team should first test the system in about 50 shops. If it works, leaders will have proof before spending more. Leaders who are worried about money are more likely to trust real results, such as less waste and more sales, than a promise. Building this habit of testing new ideas creates dynamic capabilities (Teece, 2007).
 
-**The agile model:** Today, Greggs is at level 2 of the agile maturity model, 'competitive and market orientation', because it focuses on beating rivals on price and every shop follows head-office rules. It should aim for level 3, 'customer orientation', using app data to build around what customers want, with agile working only for the app project (Curchod, 2026b). *Processes and routines:* the small test team tries the system in a few shops, learns from it and improves it. *Skills and employee development:* shop managers are trained, and Greggs hires data and AI experts. *Communication and transparency:* because most shop staff do not sit at a computer, Greggs shares the test results through a staff app on their phones, as IKEA did, and managers collect opinions in a short chat at the start of each shift.
+**The agile model:** Today, Greggs is at level 2 of the agile maturity model, 'competitive and market orientation', because it focuses on beating rivals on price. It should aim for level 3, 'customer orientation', using app data to build around what customers want, with agile working only for the app project (Curchod, 2026b). *Processes and routines:* the small test team tries the system in a few shops, learns from it and improves it. *Skills and employee development:* shop managers are trained, and Greggs hires data and AI experts. *Communication and transparency:* because most shop staff do not sit at a computer, Greggs shares the test results through a staff app on their phones, as IKEA did.
 
-**National culture:** the UK has its own digital ecosystem, and customers already use Uber Eats and Just Eat (Curchod, 2026c). Greggs should not stop working with them, because it would lose customers to rivals such as McDonald's or Subway. Instead, it should keep these partners but give people a reason, such as app-only deals and rewards, to order more through its own app.
+**National culture:** the UK has its own digital ecosystem, and customers already use Uber Eats and Just Eat (Curchod, 2026c). Greggs should keep these partners but give people a reason, such as app-only deals and rewards, to order more through its own app.
 
 ## Conclusion
 
