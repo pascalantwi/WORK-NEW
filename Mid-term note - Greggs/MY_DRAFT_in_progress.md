@@ -20,6 +20,8 @@ Curchod, C. (2026a) 'The challenges ahead: potential obstacles to transformation
 
 Curchod, C. (2026b) 'Organizing for digital transformation: the agile organization' [Lecture slides], *The Strategy of Digital Transformation*. University of Edinburgh Business School. Available at: Learn (Accessed: 30 October 2026).
 
+Curchod, C. (2026c) 'Beware national cultures: an exploration of the East vs. West digital ecosystems' [Lecture slides], *The Strategy of Digital Transformation*. University of Edinburgh Business School. Available at: Learn (Accessed: 30 October 2026).
+
 Greggs plc (2026) *Preliminary results for the 52 weeks ended 27 December 2025*. Newcastle upon Tyne: Greggs plc. Available at: https://assets.greggs.com/f/162306/x/e616871d6c/260303-greggs-2025-preliminary-results-final.pdf (Accessed: 30 October 2026).
 
 HM Treasury (2024) *Autumn Budget 2024* (HC 295). London: HM Treasury. Available at: https://www.gov.uk/government/publications/autumn-budget-2024 (Accessed: 30 October 2026).
@@ -69,6 +71,8 @@ Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Sub
 **Fixing the leaders' challenge:** Greggs should set up a small separate team for this project, so the rest of the business keeps running normally. This is called ambidexterity (O'Reilly and Tushman, 2004). The team should first test the system in about 50 shops in one city. This costs little, and if it works, leaders will have proof before spending more. Building this habit of testing new ideas creates dynamic capabilities (Teece, 2007).
 
 **The agile model:** Greggs only needs to change the most relevant dimensions of the agile model, not become fully agile like Google (Curchod, 2026b). Three dimensions matter most. *Processes and routines:* the small test team tries the system in a few shops, learns from it and improves it. *Skills and employee development:* shop managers are trained, and Greggs hires data and AI experts. *Communication and transparency:* because most shop staff do not sit at a computer, Greggs shares the test results through a staff app on their phones, as IKEA did, and managers collect opinions in a short chat at the start of each shift.
+
+**National culture:** the UK has its own digital ecosystem, and customers already use Uber Eats and Just Eat (Curchod, 2026c). Greggs should not stop working with them, because it would lose customers to rivals such as McDonald's or Subway. Instead, it should keep these partners but give people a reason, such as app-only deals and rewards, to order more through its own app.
 
 ## Conclusion
 
