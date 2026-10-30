@@ -58,7 +58,7 @@ Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Sub
 
 ## 5. Overcoming the challenges
 
-(to do)
+**Fixing staff resistance:** Greggs should train shop managers to use the new system, so they are not confused. The computer should only suggest how much to bake, while the manager still makes the final decision, so staff are not scared of being replaced.
 
 ## Conclusion
 
