@@ -30,6 +30,8 @@ Greggs gives customers cheap food in shops that are close by and reliable (value
 
 Using the information from everyday orders on the app, Greggs can predict what to bake, which will also help it plan how many staff it needs. This means less leftover food, which could instead be sold for a profit. If more people ordered through the Greggs app instead of Uber Eats, Greggs would keep more of the money.
 
+With this plan, customers would find their favourite items sold out less often, and they could skip the queue by ordering ahead in the app (new value creation). This matters to me: once at lunchtime, the item I wanted was sold out, so I left and went to Subway, and Greggs lost that sale. With the new plan, Greggs would throw away less food and would not pay Uber Eats a cut on orders made in its own app (new value capture). Figure 2 compares the current business model with the new one.
+
 ## 3. Competitive advantage
 
 (to do)
