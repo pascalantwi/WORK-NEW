@@ -24,9 +24,13 @@ HM Treasury (2024) *Autumn Budget 2024* (HC 295). London: HM Treasury. Available
 
 Leonard-Barton, D. (1992) 'Core capabilities and core rigidities: a paradox in managing new product development', *Strategic Management Journal*, 13(S1), pp. 111–125. doi: 10.1002/smj.4250131009.
 
+O'Reilly, C.A. and Tushman, M.L. (2004) 'The ambidextrous organization', *Harvard Business Review*, 82(4), pp. 74–81.
+
 Porter, M.E. (1996) 'What is strategy?', *Harvard Business Review*, 74(6), pp. 61–78.
 
 Porter, M.E. (2008) 'The five competitive forces that shape strategy', *Harvard Business Review*, 86(1), pp. 78–93.
+
+Teece, D.J. (2007) 'Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance', *Strategic Management Journal*, 28(13), pp. 1319–1350. doi: 10.1002/smj.640.
 
 Whittington, R., Regnér, P., Angwin, D., Johnson, G. and Scholes, K. (2024) *Fundamentals of strategy*. 6th edn. Harlow: Pearson.
 
@@ -59,6 +63,8 @@ Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Sub
 ## 5. Overcoming the challenges
 
 **Fixing staff resistance:** Greggs should train shop managers to use the new system, so they are not confused. The computer should only suggest how much to bake, while the manager still makes the final decision, so staff are not scared of being replaced.
+
+**Fixing the leaders' challenge:** Greggs should set up a small separate team for this project, so the rest of the business keeps running normally. This is called ambidexterity (O'Reilly and Tushman, 2004). The team should first test the system in about 50 shops in one city. This costs little, and if it works, leaders will have proof before spending more. Building this habit of testing new ideas creates dynamic capabilities (Teece, 2007).
 
 ## Conclusion
 
