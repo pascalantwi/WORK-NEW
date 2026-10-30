@@ -16,11 +16,15 @@ Greggs is a UK-based company that sells food, and it has around 2,700 branches (
 
 ## Reference list (so far)
 
+Collis, D. (2021) 'Why do so many strategies fail?', *Harvard Business Review*, 99(4). Available at: https://hbr.org/2021/07/why-do-so-many-strategies-fail (Accessed: 30 October 2026).
+
 Curchod, C. (2026a) 'The challenges ahead: potential obstacles to transformation and how to overcome them' [Lecture slides], *The Strategy of Digital Transformation*. University of Edinburgh Business School. Available at: Learn (Accessed: 30 October 2026).
 
 Curchod, C. (2026b) 'Organizing for digital transformation: the agile organization' [Lecture slides], *The Strategy of Digital Transformation*. University of Edinburgh Business School. Available at: Learn (Accessed: 30 October 2026).
 
 Curchod, C. (2026c) 'Beware national cultures: an exploration of the East vs. West digital ecosystems' [Lecture slides], *The Strategy of Digital Transformation*. University of Edinburgh Business School. Available at: Learn (Accessed: 30 October 2026).
+
+Curchod, C. (2026d) 'Strategy starts with value opportunities: macro, industry and firm-level analysis in the digital age' [Lecture slides], *The Strategy of Digital Transformation*. University of Edinburgh Business School. Available at: Learn (Accessed: 30 October 2026).
 
 Greggs plc (2026) *Preliminary results for the 52 weeks ended 27 December 2025*. Newcastle upon Tyne: Greggs plc. Available at: https://assets.greggs.com/f/162306/x/e616871d6c/260303-greggs-2025-preliminary-results-final.pdf (Accessed: 30 October 2026).
 
@@ -52,13 +56,15 @@ When I searched for Greggs on Google on 30 October 2026, the "Order online" page
 
 Using the information from everyday orders on the app, Greggs can predict what to bake (P2), which will also help it plan how many staff it needs. This means less leftover food, which could instead be sold for a profit.
 
-With this plan, customers would find their favourite items sold out less often, and they could skip the queue by ordering ahead in the app (new value creation, P1). This matters to me: once at lunchtime, the item I wanted was sold out, so I left and went to Subway, and Greggs lost that sale. With the new plan, Greggs would throw away less food and would not pay Uber Eats a cut on orders made in its own app (new value capture, P3). Figure 2 compares the current business model with the new one.
+With this plan, customers would find their favourite items sold out less often, and they could skip the queue by ordering ahead in the app (new value creation, P1). This matters to me: once at lunchtime, the item I wanted was sold out, so I left and went to Subway, and Greggs lost that sale. With the new plan, Greggs would throw away less food and would not pay Uber Eats a cut on orders made in its own app (new value capture, P3). This links value creation to value capture, as a strategy should (Collis, 2021). Figure 2 compares the current business model with the new one.
 
 ## 3. Competitive advantage
 
 Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Subway, but it also has something special, like its famous sausage roll (Whittington et al., 2024). My plan makes both sides stronger. Less food thrown away and not paying Uber Eats a cut save Greggs money, which helps it stay cheap. Fewer sold-out items and skipping the queue by ordering ahead make customers happier, which makes Greggs more special. Rivals such as Tesco could also build an app, so the app alone is not special. What they cannot easily copy is that Greggs has its own bakeries and lorries, so it can use app data to change what is baked and delivered to each shop (Porter, 1996).
 
 ## 4. Challenges
+
+About 70% of digital transformations fail to meet their goals (McKinsey, 2025, cited in Curchod, 2026d), so these challenges matter.
 
 **Staff:** shop managers who have always decided how much to bake may resist the new system. Some may be confused because nobody has trained them to use it, and others may be scared that a computer will replace them. The lecture calls this ground-level resistance, caused by a lack of understanding or by fear (Curchod, 2026a).
 
