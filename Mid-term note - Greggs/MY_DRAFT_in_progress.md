@@ -22,6 +22,8 @@ Greggs plc (2026) *Preliminary results for the 52 weeks ended 27 December 2025*.
 
 HM Treasury (2024) *Autumn Budget 2024* (HC 295). London: HM Treasury. Available at: https://www.gov.uk/government/publications/autumn-budget-2024 (Accessed: 30 October 2026).
 
+Leonard-Barton, D. (1992) 'Core capabilities and core rigidities: a paradox in managing new product development', *Strategic Management Journal*, 13(S1), pp. 111–125. doi: 10.1002/smj.4250131009.
+
 Porter, M.E. (1996) 'What is strategy?', *Harvard Business Review*, 74(6), pp. 61–78.
 
 Porter, M.E. (2008) 'The five competitive forces that shape strategy', *Harvard Business Review*, 86(1), pp. 78–93.
@@ -49,6 +51,10 @@ Greggs has a hybrid competitive advantage: it is cheaper than rivals such as Sub
 ## 4. Challenges
 
 **Staff:** shop managers who have always decided how much to bake may resist the new system. Some may be confused because nobody has trained them to use it, and others may be scared that a computer will replace them. The lecture calls this ground-level resistance, caused by a lack of understanding or by fear (Curchod, 2026a).
+
+**Leaders:** Greggs' leaders may see the app as just a marketing tool for discounts, not as something that should change how the company bakes. The lecture calls this bounded rationality (Curchod, 2026a). Money is also tight: Greggs spent £287.5 million on investment in 2025 while its profit fell (Greggs plc, 2026), so leaders may prefer to wait.
+
+**Company habits:** Greggs has had record sales doing things its own way, so people may ask why it should change. This is a competency trap, where the strengths that made a company successful stop it from changing, as happened to Nokia (Leonard-Barton, 1992).
 
 ## 5. Overcoming the challenges
 
